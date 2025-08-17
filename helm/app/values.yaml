@@ -20,7 +20,7 @@ esService: "es-master-service:9200"
 
 imagePullSecrets: []
 nameOverride: ""
-fullnameOverride: ""
+fullnameOverride: "" 
 
 serviceAccount:
   # Specifies whether a service account should be created
